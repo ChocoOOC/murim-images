@@ -1,4 +1,4 @@
-# murim-assets
+# murim-images
 
 Portraits (200) and location backgrounds (20) for MURIM: Beyond the Nine Heavens. Images only.
 
